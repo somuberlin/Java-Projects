@@ -12,9 +12,9 @@ class Main
 
     void initBoard()
     {
-        for(int i = 0; i < board.length; i++) // use < instead of <=
+        for(int i = 0; i < board.length; i++) 
         {
-            for(int j = 0; j < board[i].length; j++) // use < instead of <=
+            for(int j = 0; j < board[i].length; j++) 
             {
                 board[i][j] = ' ';
             }
@@ -24,10 +24,10 @@ class Main
     static void DispBoard()
     {
         System.out.println("-------------");
-        for(int i = 0; i < board.length; i++) // use < instead of <=
+        for(int i = 0; i < board.length; i++) 
         {
             System.out.print("| ");
-            for(int j = 0; j < board[i].length; j++) // use < instead of <=
+            for(int j = 0; j < board[i].length; j++) 
             {
                 System.out.print(board[i][j] + " | ");
             }
@@ -162,3 +162,4 @@ public class TicTacToe
         System.out.println("Game Over! Thank for Playing...");
     }
 }
+
