@@ -47,8 +47,9 @@
 
       🛠️ Tech Stack
 
-         Language: Java <br>Data Structure: ArrayList (for storing tickets)
-         <br>Concepts Used: Encapsulation, Object-Oriented Programming, Loops, and Switch Case
+         i) Language: Java
+         ii) Data Structure: ArrayList (for storing tickets)
+         iii) Concepts Used: Encapsulation, Object-Oriented Programming, Loops, and Switch Case
 
       📷 Example Output
 
