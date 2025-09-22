@@ -31,12 +31,12 @@
 
       <br>
 
-   2. Ticket Raising System 🎫 (Java Console Application)
+2. Ticket Raising System 🎫 (Java Console Application)
   
-      📌 Overview
-      
-         A simple Ticket Raising System built in Java to create, view, and update tickets.
-      This project demonstrates Object-Oriented Programming (OOP) concepts, classes, objects, encapsulation, and collections.
+   📌 Overview
+   
+      A simple Ticket Raising System built in Java to create, view, and update tickets.
+   This project demonstrates Object-Oriented Programming (OOP) concepts, classes, objects, encapsulation, and collections.
 
       🚀 Features
 
