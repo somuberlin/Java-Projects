@@ -29,3 +29,31 @@
    
       <img width="521" height="513" alt="image" src="https://github.com/user-attachments/assets/e14da01b-e96c-49ab-ade1-69e6f0f60381" />
 
+      <br>
+
+   2. Ticket Raising System 🎫 (Java Console Application)
+  
+      📌 Overview
+      
+         A simple Ticket Raising System built in Java to create, view, and update tickets.
+      This project demonstrates Object-Oriented Programming (OOP) concepts, classes, objects, encapsulation, and collections.
+
+      🚀 Features
+
+            a) Raise a Ticket → Create new tickets with title and description.
+            b) View All Tickets → Display a list of all raised tickets.
+            c) Update Ticket Status → Change the status of a ticket (Open, In Progress, or Closed).
+            d) Exit → Exit the system gracefully.
+
+      🛠️ Tech Stack
+
+         Language: Java
+         Data Structure: ArrayList (for storing tickets)
+         Concepts Used: Encapsulation, Object-Oriented Programming, Loops, and Switch Case
+
+      📷 Example Output
+
+      <img width="694" height="604" alt="image" src="https://github.com/user-attachments/assets/7cfece82-6d2a-434a-9c9b-9f742e91b864" />
+
+
+   
